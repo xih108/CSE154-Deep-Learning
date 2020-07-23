@@ -1,0 +1,32 @@
+# Fdb version 3
+["latex"] 1569998011 "/Users/xinyihe/Desktop/CSE 154/PA1.tex" "PA1.dvi" "PA1" 1569998011
+  "/Users/xinyihe/Desktop/CSE 154/PA1.tex" 1569997925 66 b6422e9d0be923716843a6d47b5f2d41 ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls" 1523050425 19823 fcbc01552b07b608574cbf8e1977e0c0 ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo" 1523050425 8294 b0f177401f895563eb19304d2389582d ""
+  "/usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf" 1522066949 33362 cf75436e19743e94a92a6b1b9183c434 ""
+  "/usr/local/texlive/2018/texmf-var/web2c/pdftex/latex.fmt" 1523934522 4220218 a831c9f2d85a9dd05945596dad7c1437 ""
+  "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
+  "PA1.aux" 1569998011 8 a94a2480d3289e625eea47cd1b285758 ""
+  "PA1.tex" 1569997925 66 b6422e9d0be923716843a6d47b5f2d41 ""
+  (generated)
+  "PA1.aux"
+  "PA1.dvi"
+  "PA1.log"
+["pdflatex"] 1569997925 "/Users/xinyihe/Desktop/CSE 154/PA1.tex" "PA1.pdf" "PA1" 1569997926
+  "/Users/xinyihe/Desktop/CSE 154/PA1.aux" 1569997926 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/Users/xinyihe/Desktop/CSE 154/PA1.tex" 1569997925 66 b6422e9d0be923716843a6d47b5f2d41 ""
+  "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1480098733 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls" 1523050425 19823 fcbc01552b07b608574cbf8e1977e0c0 ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo" 1523050425 8294 b0f177401f895563eb19304d2389582d ""
+  "/usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf" 1522066949 33362 cf75436e19743e94a92a6b1b9183c434 ""
+  "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
+  "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1523934516 4220280 10cab8fbd7c5a7c52aba9917e190d018 ""
+  "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
+  "PA1.aux" 1569997926 8 a94a2480d3289e625eea47cd1b285758 ""
+  "PA1.tex" 1569997925 66 b6422e9d0be923716843a6d47b5f2d41 ""
+  (generated)
+  "/Users/xinyihe/Desktop/CSE 154/PA1.log"
+  "/Users/xinyihe/Desktop/CSE 154/PA1.pdf"
+  "PA1.log"
+  "PA1.pdf"
+  "PA1.aux"

@@ -1,0 +1,15 @@
+PWD /Users/xinyihe/Desktop/CSE 154
+INPUT /usr/local/texlive/2018/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/latex.fmt
+INPUT /Users/xinyihe/Desktop/CSE 154/PA1.tex
+OUTPUT PA1.log
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+INPUT PA1.aux
+INPUT PA1.aux
+OUTPUT PA1.aux
+OUTPUT PA1.dvi
+INPUT PA1.aux
